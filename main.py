@@ -65,3 +65,5 @@ if len(pt) == 5:
        print('\n Culpado')
    else:
        print('\n Inocente.')
+
+			 #alteração
